@@ -1,0 +1,103 @@
+{
+  "_id": {
+    "$oid": "58c41d5d3eddd93e9ab5b078"
+  },
+  "userId": "100000077",
+  "userName": "admin",
+  "userPwd": "123456",
+  "orderList": [
+    {
+      "orderId": "6224201705302250301",
+      "orderTotal": 3359,
+      "addressInfo": {
+        "addressId": "100001",
+        "userName": "JackBean",
+        "streetName": "北京市朝阳区朝阳公园",
+        "postCode": 100001,
+        "tel": 12345678901.0,
+        "isDefault": true
+      },
+      "goodsList": [
+        {
+          "productImage": "xiaomi9.jpg",
+          "salePrice": "2999",
+          "productName": "小米9 6GB+128GB",
+          "productId": "201910003",
+          "_id": {
+            "$oid": "58c284b13a1bb9aa7033801b"
+          },
+          "productNum": "1",
+          "checked": "1"
+        },
+        {
+          "productImage": "2.jpg",
+          "salePrice": "369",
+          "productName": "米家LED吸顶灯",
+          "productId": "201910009",
+          "_id": {
+            "$oid": "58e7051698dab115d336b3f4"
+          },
+          "productNum": "2",
+          "checked": "1"
+        }
+      ],
+      "orderStatus": "1",
+      "createDate": "2019-04-30 22:50:30"
+    }
+
+  ],
+  "cartList": [
+
+  ],
+  "addressList": [
+    {
+      "addressId": "100001",
+      "userName": "JackBean",
+      "streetName": "北京市朝阳区朝阳公园",
+      "postCode": "100001",
+      "tel": "12345678901",
+      "isDefault": true
+    },
+    {
+      "addressId": "100004",
+      "userName": "Mary",
+      "streetName": "北京市朝阳区SOHO",
+      "postCode": "100005",
+      "tel": "010555555",
+      "isDefault": false
+    },
+    {
+      "addressId": "100005",
+      "userName": "Donie",
+      "streetName": "北京市海淀区西二旗",
+      "postCode": "100009",
+      "tel": "18710987654",
+      "isDefault": false
+    },
+    {
+      "addressId": "100006",
+      "userName": "Cherry",
+      "streetName": "北京市海淀区回龙观",
+      "postCode": "100009",
+      "tel": "010655555",
+      "isDefault": false
+    },
+    {
+      "addressId": "100007",
+      "userName": "Joke",
+      "streetName": "北京市朝阳区望京",
+      "postCode": "100010",
+      "tel": "13619898722",
+      "isDefault": false
+    },
+    {
+      "addressId": "100008",
+      "userName": "Frank",
+      "streetName": "北京市海淀区中关村软件园",
+      "postCode": "100011",
+      "tel": "10125652345",
+      "isDefault": false
+    }
+  ],
+  "__v": 30
+}

@@ -1,0 +1,17 @@
+﻿{"_id":{"$oid":"58c284b13a1bb9aa7033801b"},"productId":"201910003","productName":"小米9 6GB+128GB","salePrice":2999,"productImage":"xiaomi9.jpg","productUrl":""}
+{"_id":{"$oid":"58c284d7117a2e6599abef5e"},"productId":"201910004","productName":"小米9 SE 6GB+64GB","salePrice":1999,"productImage":"2.jpg","productUrl":""}
+{"_id":{"$oid":"58c284e6117a2e6599abef5f"},"productId":"201910005","productName":"Redmi Note7 3GB+32GB","salePrice":999,"productImage":"Redminote7.jpg","productUrl":""}
+{"_id":{"$oid":"58c284f4117a2e6599abef60"},"productId":"201910006","productName":"小米Play 4GB+64GB","salePrice":1099,"productImage":"xiaomi play.png","productUrl":""}
+{"_id":{"$oid":"58e704ef98dab115d336b3f1"},"productId":"201910002","productName":"小米8 SE 6GB+64GB","salePrice":1599,"productImage":"xiaomi 8se.jpg","productUrl":""}
+{"_id":{"$oid":"58e7050398dab115d336b3f2"},"productId":"201910007","productName":"小米6X 6GB+128GB","salePrice":1999,"productImage":"xiaomi 8se.jpg","productUrl":""}
+{"_id":{"$oid":"58e7050c98dab115d336b3f3"},"productId":"201910008","productName":"红米6A 2GB+16GB","salePrice":549,"productImage":"redmi 6a.jpg","productUrl":""}
+{"_id":{"$oid":"58e7051698dab115d336b3f4"},"productId":"201910009","productName":"米家LED吸顶灯","salePrice":369,"productImage":"led.png","productUrl":""}
+{"_id":{"$oid":"58e7052198dab115d336b3f5"},"productId":"201910010","productName":"米家空气净化器Pro","salePrice":1299,"productImage":"jinghuaqi.png","productUrl":""}
+{"_id":{"$oid":"58e7052a98dab115d336b3f6"},"productId":"201910011","productName":"米家扫地机器人","salePrice":1499,"productImage":"saodi.jpg","productUrl":""}
+{"_id":{"$oid":"58e7053298dab115d336b3f7"},"productId":"201910012","productName":"小米便携鼠标","salePrice":89,"productImage":"shubiao.jpg","productUrl":""}
+{"_id":{"$oid":"58e7053c98dab115d336b3f8"},"productId":"201910013","productName":"悦米机械键盘","salePrice":269,"productImage":"keyboard.png","productUrl":""}
+{"_id":{"$oid":"58e7054798dab115d336b3f9"},"productId":"201910014","productName":"小米电视4A 32英寸","salePrice":799,"productImage":"dianshi4a.jpg","productUrl":""}
+{"_id":{"$oid":"58e7055198dab115d336b3fa"},"productId":"201910015","productName":"小米全面屏电视 E55A","salePrice":2499,"productImage":"dianshie55a.jpg","productUrl":""}
+{"_id":{"$oid":"58e7057798dab115d336b3fb"},"productId":"201910016","productName":"13.3'小米笔记本Air","salePrice":5999,"productImage":"xiaomi air.jpg","productUrl":""}
+{"_id":{"$oid":"58e7058498dab115d336b3fc"},"productId":"201910017","productName":"15.6'小米笔记本Pro","salePrice":6299,"productImage":"xiaomi airpro.jpg","productUrl":""}
+{"_id":{"$oid":"58e7058d98dab115d336b3fd"},"productId":"201910018","productName":"15.6'小米游戏本","salePrice":7999,"productImage":"xiaomipro.jpg","productUrl":""}
