@@ -10,7 +10,7 @@
           <li><a href="javascript:;"><i class="iconfont icon-map"></i>520余家售后网点</a></li>
         </ul>
       </div>
-      <div class="auther"><p>by:付亮亮</p></div>
+      <div class="auther"><p>by:亮亮</p></div>
     </div>
   </footer>
 </template>
