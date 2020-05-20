@@ -14,9 +14,9 @@
 6. 订单成功模块
 
 ## 3 部分截图
-![首页](https://gitee.com/Vanish-F/vuemall/blob/master/static/img/ScreenShot1.png)
-![购物车](https://gitee.com/Vanish-F/vuemall/blob/master/static/img/ScreenShot2.png)
-![订单成功](https://gitee.com/Vanish-F/vuemall/blob/master/static/img/ScreenShot3.png)
+![首页](https://github.com/Freezing1/vuemall/tree/master/static/img/ScreenShot1.png)
+![购物车](https://github.com/Freezing1/vuemall/tree/master/static/img/ScreenShot2.png)
+![订单成功](https://github.com/Freezing1/vuemall/tree/master/static/img/ScreenShot3.png)
 
 ##  运行流程
 1. 运行```npm install``` 安装依赖
